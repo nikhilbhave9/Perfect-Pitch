@@ -1,7 +1,7 @@
 # PerfectPitch - A Genre Classfication Application 
 ![Python](https://img.shields.io/badge/Python-3-green) ![JupyterNotebook](https://img.shields.io/badge/Jupyter%20Notebook-.ipynb-yellowgreen)
 
-The main .ipynb file that houses the project is titled "musicClassification" and can be found here: https://github.com/nikhilbhave9/PerfectPitch/blob/main/musicClassification.ipynb
+The main .ipynb file that houses the project is titled "musicClassification" and can be found here: [https://github.com/nikhilbhave9/Perfect-Pitch/blob/main/musicClassification.ipynb](https://github.com/nikhilbhave9/Perfect-Pitch/blob/main/musicClassification.ipynb)
 
 Serves as final project for CS-1390: Introduction to Machine Learning (Monsoon 2021)
 
